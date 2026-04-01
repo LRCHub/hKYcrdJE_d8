@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "≒ - Nearly equal",
+  "base_artist": "jo0ji",
+  "createdAt": "2026-04-01T15:08:24.858226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nearly Equal",
+      "artist": "jo0ji",
+      "has_synced": false,
+      "path": "select/01_Nearly_Equal_jo0ji.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "≒",
+      "artist": "jo0ji",
+      "has_synced": false,
+      "path": "select/pl_01_≒_jo0ji.txt"
+    }
+  ]
+}
